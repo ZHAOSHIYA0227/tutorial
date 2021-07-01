@@ -1,3 +1,13 @@
-text
+This program is for GitHub practice
+We deal with basic commands like fork, clone, commit, cherry-pick, etc.
+The practice is grounded by GitHub, SourceTree, Cygwin, R, Rstudio and sometimes TortoiseGit
+By Shiya ZHAO, 2021/7/1
 
-text second commit 
+Commit 1
+Write your family name in the parenthese ()
+
+
+Commit 2
+Create a new branch
+Write your family name in the parenthese ()
+
