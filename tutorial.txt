@@ -9,5 +9,6 @@ Write your family name in the parenthese (Zhao)
 
 Commit 2
 Create a new branch
-Write your family name in the parenthese (Zhao)
+Write your family name in the parenthese (Shiya Zhao, Zhao)
+
 
