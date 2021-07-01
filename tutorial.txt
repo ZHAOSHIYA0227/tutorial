@@ -4,7 +4,7 @@ The practice is grounded by GitHub, SourceTree, Cygwin, R, Rstudio and sometimes
 By Shiya ZHAO, 2021/7/1
 
 Commit 1
-Write your family name in the parenthese ()
+Write your family name in the parenthese (Zhao)
 
 
 Commit 2
